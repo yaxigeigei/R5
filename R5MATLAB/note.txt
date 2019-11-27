@@ -1,0 +1,15 @@
+add hot commands
+optionally saving video with trials
+pause the trial
+normalize the size of GUI components to support window maximization
+
+rewrite ROI system: polygonal selection; programmable trigger ROI; extensive display
+in situ preview (but cannot configure the camera at the same time)
+
+
+---------------------------------------------------------------------------------------
+
+improve triggering reliability
+display sub-percentage
+solve left/right paw confusion
+devise better post-hoc tracking algorithm
